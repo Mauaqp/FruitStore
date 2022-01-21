@@ -4852,6 +4852,14 @@ input[type="button"].btn-block {
   padding-left: 0;
   border-radius: 0;
 }
+/* Agregado */
+.dojo-fruits img {
+  width: 150px;
+  height: 150px;
+  object-fit: cover;
+  border-radius: 10%;
+  margin: 10px;
+}
 
 .alert {
   position: relative;
